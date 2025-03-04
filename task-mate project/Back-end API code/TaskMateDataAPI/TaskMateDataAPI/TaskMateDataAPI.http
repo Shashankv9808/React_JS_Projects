@@ -1,0 +1,6 @@
+@TaskMateDataAPI_HostAddress = http://localhost:5058
+
+GET {{TaskMateDataAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

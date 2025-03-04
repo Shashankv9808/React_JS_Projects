@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "v/RbdDHSoD4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nofea\\Desktop\\React_Practice\\React_JS_Projects\\Todo-list project\\Back-end API code\\Todolist\\Todolist\\Todolist.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nofea\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.2\\microsoft.aspnetcore.openapi.9.0.2.nupkg.sha512",
+    "C:\\Users\\nofea\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
