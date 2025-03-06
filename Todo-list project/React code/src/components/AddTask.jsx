@@ -5,7 +5,7 @@ export const AddTask = ({ data, setData }) => {
   const inputRef = useRef(null);
   const handleAddTask = () => {
     const newTask = {
-      taskID: data[data.length - 1].taskID + 1,
+      taskID: data.length === 0 ? 1 : data[data.length - 1].taskID + 1,
       name: inputRef.current.value,
       time: new Date().toISOString(),
       isCompleted: false
