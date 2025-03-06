@@ -1,0 +1,80 @@
+[
+  {
+    "ContainingType": "Todolist.Controllers.TodoController",
+    "Method": "DeleteAllTask",
+    "RelativePath": "api/deletealltasks",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Todolist.Controllers.TodoController",
+    "Method": "DeleteTask",
+    "RelativePath": "api/deletetasks",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "bodyData",
+        "Type": "Todolist.Todo",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Todolist.Controllers.TodoController",
+    "Method": "CreateTask",
+    "RelativePath": "api/savetasks",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "bodyData",
+        "Type": "Todolist.Todo",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Todolist.Controllers.TodoController",
+    "Method": "GetTaskData",
+    "RelativePath": "api/tasks",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[Todolist.Todo, Todolist, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Todolist.Controllers.TodoController",
+    "Method": "UpdateTask",
+    "RelativePath": "api/updatetasks",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "bodyData",
+        "Type": "Todolist.Todo",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

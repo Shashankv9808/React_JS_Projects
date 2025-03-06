@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\nofea\\Desktop\\React_Practice\\React_JS_Projects\\Todo-list project\\Back-end API code\\Todolist\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{31EB0FDF-4284-4764-AA25-D552143098BC}|Todolist\\Todolist.csproj|c:\\users\\nofea\\desktop\\react_practice\\react_js_projects\\todo-list project\\back-end api code\\todolist\\todolist\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31EB0FDF-4284-4764-AA25-D552143098BC}|Todolist\\Todolist.csproj|solutionrelative:todolist\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{31EB0FDF-4284-4764-AA25-D552143098BC}|Todolist\\Todolist.csproj|c:\\users\\nofea\\desktop\\react_practice\\react_js_projects\\todo-list project\\back-end api code\\todolist\\todolist\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{31EB0FDF-4284-4764-AA25-D552143098BC}|Todolist\\Todolist.csproj|solutionrelative:todolist\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31EB0FDF-4284-4764-AA25-D552143098BC}|Todolist\\Todolist.csproj|c:\\users\\nofea\\desktop\\react_practice\\react_js_projects\\todo-list project\\back-end api code\\todolist\\todolist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31EB0FDF-4284-4764-AA25-D552143098BC}|Todolist\\Todolist.csproj|solutionrelative:todolist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,20 +22,44 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nofea\\Desktop\\React_Practice\\React_JS_Projects\\Todo-list project\\Back-end API code\\Todolist\\Todolist\\Program.cs",
+              "RelativeDocumentMoniker": "Todolist\\Program.cs",
+              "ToolTip": "C:\\Users\\nofea\\Desktop\\React_Practice\\React_JS_Projects\\Todo-list project\\Back-end API code\\Todolist\\Todolist\\Program.cs",
+              "RelativeToolTip": "Todolist\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T06:03:13.06Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Todo.cs",
+              "DocumentMoniker": "C:\\Users\\nofea\\Desktop\\React_Practice\\React_JS_Projects\\Todo-list project\\Back-end API code\\Todolist\\Todolist\\Todo.cs",
+              "RelativeDocumentMoniker": "Todolist\\Todo.cs",
+              "ToolTip": "C:\\Users\\nofea\\Desktop\\React_Practice\\React_JS_Projects\\Todo-list project\\Back-end API code\\Todolist\\Todolist\\Todo.cs",
+              "RelativeToolTip": "Todolist\\Todo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T17:58:34.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "TodoController.cs",
               "DocumentMoniker": "C:\\Users\\nofea\\Desktop\\React_Practice\\React_JS_Projects\\Todo-list project\\Back-end API code\\Todolist\\Todolist\\Controllers\\TodoController.cs",
               "RelativeDocumentMoniker": "Todolist\\Controllers\\TodoController.cs",
               "ToolTip": "C:\\Users\\nofea\\Desktop\\React_Practice\\React_JS_Projects\\Todo-list project\\Back-end API code\\Todolist\\Todolist\\Controllers\\TodoController.cs",
               "RelativeToolTip": "Todolist\\Controllers\\TodoController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-02T13:49:27.187Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-02T13:49:27.187Z"
             }
           ]
         }

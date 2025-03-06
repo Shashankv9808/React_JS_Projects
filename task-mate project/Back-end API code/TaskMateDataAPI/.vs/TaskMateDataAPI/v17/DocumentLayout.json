@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\nofea\\Desktop\\React_Practice\\React_JS_Projects\\task-mate project\\Back-end API code\\TaskMateDataAPI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1F732846-9876-4716-B31D-23485D013507}|TaskMateDataAPI\\TaskMateDataAPI.csproj|c:\\users\\nofea\\desktop\\react_practice\\react_js_projects\\task-mate project\\back-end api code\\taskmatedataapi\\taskmatedataapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1F732846-9876-4716-B31D-23485D013507}|TaskMateDataAPI\\TaskMateDataAPI.csproj|solutionrelative:taskmatedataapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F732846-9876-4716-B31D-23485D013507}|TaskMateDataAPI\\TaskMateDataAPI.csproj|c:\\users\\nofea\\desktop\\react_practice\\react_js_projects\\task-mate project\\back-end api code\\taskmatedataapi\\taskmatedataapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1F732846-9876-4716-B31D-23485D013507}|TaskMateDataAPI\\TaskMateDataAPI.csproj|solutionrelative:taskmatedataapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1F732846-9876-4716-B31D-23485D013507}|TaskMateDataAPI\\TaskMateDataAPI.csproj|c:\\users\\nofea\\desktop\\react_practice\\react_js_projects\\task-mate project\\back-end api code\\taskmatedataapi\\taskmatedataapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1F732846-9876-4716-B31D-23485D013507}|TaskMateDataAPI\\TaskMateDataAPI.csproj|solutionrelative:taskmatedataapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1F732846-9876-4716-B31D-23485D013507}|TaskMateDataAPI\\TaskMateDataAPI.csproj|c:\\users\\nofea\\desktop\\react_practice\\react_js_projects\\task-mate project\\back-end api code\\taskmatedataapi\\taskmatedataapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1F732846-9876-4716-B31D-23485D013507}|TaskMateDataAPI\\TaskMateDataAPI.csproj|solutionrelative:taskmatedataapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1F732846-9876-4716-B31D-23485D013507}|TaskMateDataAPI\\TaskMateDataAPI.csproj|c:\\users\\nofea\\desktop\\react_practice\\react_js_projects\\task-mate project\\back-end api code\\taskmatedataapi\\taskmatedataapi\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1F732846-9876-4716-B31D-23485D013507}|TaskMateDataAPI\\TaskMateDataAPI.csproj|solutionrelative:taskmatedataapi\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F732846-9876-4716-B31D-23485D013507}|TaskMateDataAPI\\TaskMateDataAPI.csproj|c:\\users\\nofea\\desktop\\react_practice\\react_js_projects\\task-mate project\\back-end api code\\taskmatedataapi\\taskmatedataapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F732846-9876-4716-B31D-23485D013507}|TaskMateDataAPI\\TaskMateDataAPI.csproj|solutionrelative:taskmatedataapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,37 +35,64 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\nofea\\Desktop\\React_Practice\\React_JS_Projects\\task-mate project\\Back-end API code\\TaskMateDataAPI\\TaskMateDataAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "TaskMateDataAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\nofea\\Desktop\\React_Practice\\React_JS_Projects\\task-mate project\\Back-end API code\\TaskMateDataAPI\\TaskMateDataAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "TaskMateDataAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-04T18:51:33.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\nofea\\Desktop\\React_Practice\\React_JS_Projects\\task-mate project\\Back-end API code\\TaskMateDataAPI\\TaskMateDataAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "TaskMateDataAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\nofea\\Desktop\\React_Practice\\React_JS_Projects\\task-mate project\\Back-end API code\\TaskMateDataAPI\\TaskMateDataAPI\\appsettings.json",
+              "RelativeToolTip": "TaskMateDataAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-04T18:51:23.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\nofea\\Desktop\\React_Practice\\React_JS_Projects\\task-mate project\\Back-end API code\\TaskMateDataAPI\\TaskMateDataAPI\\Program.cs",
               "RelativeDocumentMoniker": "TaskMateDataAPI\\Program.cs",
               "ToolTip": "C:\\Users\\nofea\\Desktop\\React_Practice\\React_JS_Projects\\task-mate project\\Back-end API code\\TaskMateDataAPI\\TaskMateDataAPI\\Program.cs",
               "RelativeToolTip": "TaskMateDataAPI\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-27T18:12:54.531Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\nofea\\Desktop\\React_Practice\\React_JS_Projects\\task-mate project\\Back-end API code\\TaskMateDataAPI\\TaskMateDataAPI\\Product.cs",
               "RelativeDocumentMoniker": "TaskMateDataAPI\\Product.cs",
               "ToolTip": "C:\\Users\\nofea\\Desktop\\React_Practice\\React_JS_Projects\\task-mate project\\Back-end API code\\TaskMateDataAPI\\TaskMateDataAPI\\Product.cs",
               "RelativeToolTip": "TaskMateDataAPI\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T17:00:16.883Z"
+              "WhenOpened": "2025-02-27T17:00:16.883Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "ProductController.cs",
               "DocumentMoniker": "C:\\Users\\nofea\\Desktop\\React_Practice\\React_JS_Projects\\task-mate project\\Back-end API code\\TaskMateDataAPI\\TaskMateDataAPI\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "TaskMateDataAPI\\Controllers\\ProductController.cs",
               "ToolTip": "C:\\Users\\nofea\\Desktop\\React_Practice\\React_JS_Projects\\task-mate project\\Back-end API code\\TaskMateDataAPI\\TaskMateDataAPI\\Controllers\\ProductController.cs",
               "RelativeToolTip": "TaskMateDataAPI\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-27T17:00:02.328Z",
               "EditorCaption": ""
