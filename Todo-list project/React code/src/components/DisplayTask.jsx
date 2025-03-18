@@ -10,6 +10,7 @@ export const DisplayTask = ({ data, setData }) => {
     const [editValue, setEditValue] = useState('');
 
     const handleTaskCompletion = (id, taskCompleted) => {
+        console.log(id, taskCompleted);
         const newTasks = data.map((task) => {
             if (task.taskID === id) {
                 task.isCompleted = taskCompleted;
@@ -17,6 +18,7 @@ export const DisplayTask = ({ data, setData }) => {
             }
             return task;
         });
+        console.log(newTasks);
         setData(newTasks);
     }
 

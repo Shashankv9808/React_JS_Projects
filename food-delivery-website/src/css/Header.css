@@ -1,0 +1,158 @@
+.offerandcartbox {
+    display: flex;
+    justify-content: space-between;
+    margin: 0 0 0 0;
+    border-radius: 20px;
+    width: 100%;
+    height: 50px;
+    border-radius: 5px;
+    box-shadow: var(--box-shadow);
+    background-color: #FAFAFA;
+}
+
+.offerandcartbox .offer {
+    display: flex;
+    float: left;
+    font-size: 15px;
+    margin-left: 15px;
+    align-items: center;
+}
+
+.offerandcartbox .offer * {
+    padding-left: 10px;
+}
+
+.offerandcartbox .location {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 15px;
+}
+
+.offerandcartbox .location * {
+    padding-left: 10px;
+}
+
+.offerandcartbox .cart {
+    display: flex;
+    background-color: #4caf50;
+    color: white;
+    border-radius: 5px;
+    width: 15%;
+    margin: 0 0 0 0;
+    font-size: 16px;
+    float: right;
+}
+
+.offerandcartbox .cart-section {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-right: 1px inset white;
+    width: 15%;
+}
+
+.offerandcartbox i {
+    font-size: 25px;
+}
+
+.offerandcartbox .checkout-info-section {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 15%;
+}
+
+.offerandcartbox .cart-info-section {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-right: 1px inset white;
+    width: 35%;
+}
+
+.offerandcartbox .price-info-section {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-right: 1px inset white;
+    width: 35%;
+}
+
+.logoandtabs {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 40px 0px 40px 0px;
+    width: 100%;
+    height: 61px;
+    font-size: 18px;
+}
+
+.logoandtabs .logo-section {
+    display: flex;
+    float: left;
+}
+
+.logoandtabs .tabs {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logoandtabs .loginandsignup {
+    display: flex;
+    float: right;
+    background-color: black;
+    border: 0px;
+    border-radius: 30px;
+    width: 234px;
+    justify-content: center;
+    align-items: center;
+    height: 60px;
+}
+
+.loginbutton {
+    border: 0px;
+    border-radius: 30px;
+    background-color: transparent;
+    color: white;
+    cursor: pointer;
+    display: inline-block;
+    margin: 20px 10px;
+    font-size: 18px;
+}
+
+.navbutton{
+    border: 0px;
+    border-radius: 30px;
+    background-color: transparent;
+    color: black;
+    cursor: pointer;
+    display: flex;
+    margin-left: 25px;
+    margin-right: 25px;
+    font-size: 18px;
+    align-items: center;
+    justify-content: center;
+    width: 150px;
+    height: 45px;
+    padding: 0 0 0 0;
+
+}
+
+.navbutton.active {
+    background-color: #FC8A06;
+    color: white;
+}
+
+.loginandsignup i {
+    font-size: 20px;
+    color: #FC8A06;
+}
+
+.logoandtabs button {
+    justify-content: center;
+    align-items: center;
+    margin-right: 20px;
+}

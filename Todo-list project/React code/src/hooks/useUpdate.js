@@ -2,6 +2,7 @@
 export const useUpdate = ({ updatedData }) => {
 
     const makeAPICallToSave = async () => {
+        console.log("useupdate "+JSON.stringify(updatedData));
         try {
             const response = fetch("http://localhost:5200/api/updatetasks",
                 {

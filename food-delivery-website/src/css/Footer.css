@@ -1,0 +1,147 @@
+/* Footer Container */
+.footer {
+    background: #f0f0f0;
+    color: #000;
+    font-family: Arial, sans-serif;
+  }
+  
+  /* Footer Top Section */
+  .footer-top {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    border-bottom: 1px solid #ccc;
+  }
+  
+  /* Logo Section */
+  .footer-logo h1 {
+    font-size: 32px;
+    font-weight: bold;
+    margin: 0;
+  }
+  
+  .highlight {
+    background: #ccc;
+    padding: 0 4px;
+  }
+  
+  /* App Buttons */
+  .app-buttons {
+    margin: 15px 0;
+  }
+  
+  .app-button {
+    padding: 10px 20px;
+    margin-right: 10px;
+    background: #000;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  /* Company Info */
+  .footer-logo p {
+    margin-top: 10px;
+    font-size: 14px;
+    color: #555;
+  }
+  
+  /* Subscription Section */
+  .footer-subscribe h2 {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  
+  .subscribe-box {
+    display: flex;
+    margin: 10px 0;
+  }
+  
+  .subscribe-box input {
+    flex: 1;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 30px 0 0 30px;
+    font-size: 14px;
+    background-color: #D9D9D9;
+  }
+  
+  .subscribe-button {
+    padding: 10px 20px;
+    background: orange;
+    color: white;
+    border: none;
+    border-radius: 0 30px 30px 0;
+    cursor: pointer;
+  }
+  
+  /* Social Icons */
+  .social-icons {
+    margin-top: 10px;
+    display: flex;
+    gap: 10px;
+    font-size: 24px;
+  }
+  
+  /* Links Section */
+  .footer-links {
+    display: flex;
+    gap: 40px;
+  }
+  
+  .footer-links h3 {
+    margin-bottom: 10px;
+    font-size: 18px;
+  }
+  
+  .footer-links a {
+    display: block;
+    margin-bottom: 5px;
+    color: #000;
+    text-decoration: none;
+    font-size: 14px;
+  }
+  
+  /* Footer Bottom Section */
+  .footer-bottom {
+    background: #000;
+    color: #fff;
+    padding: 10px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 14px;
+  }
+  
+  /* Bottom Links */
+  .bottom-links a {
+    margin-left: 15px;
+    color: #fff;
+    text-decoration: none;
+    font-size: 14px;
+  }
+  
+  /* Responsive Design */
+  @media (max-width: 768px) {
+    .footer-top {
+      flex-direction: column;
+      align-items: center;
+      text-align: center;
+    }
+  
+    .footer-links {
+      flex-direction: column;
+      align-items: center;
+    }
+  
+    .footer-bottom {
+      flex-direction: column;
+      text-align: center;
+    }
+  
+    .bottom-links a {
+      margin: 5px 0;
+    }
+  }
+  
